@@ -1,5 +1,3 @@
-### My repositories
-
 | Category     | Repository |
 |:-------------|:-----------|
 | Applications | [Inform](https://github.com/TobyLobster/Inform) - For creating works of interactive fiction<br>[TobyTunes](https://github.com/TobyLobster/TobyTunesApp) - iPhone music and audiobook playback |
